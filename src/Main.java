@@ -73,6 +73,7 @@ public class Main {
             day = day + 7;
         }
 
+
         System.out.println("Task 8");
         int todayYear = 2024;
         int lastYear = todayYear - 200;
